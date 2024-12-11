@@ -13,11 +13,11 @@ This app do:
 
 APP Screenshots：
 <center class ='img'>
-<img title="portrait" src="IMG_9126.png" width="30%">
-<img title="portrait" src="IMG_9127.png" width="30%">
+<kbd><img title="portrait" src="IMG_9126.png" width="30%"></kbd>
+<kbd><img title="landscape" src="IMG_9127.png" width="70%"></kbd>
 </center>
 <center class ='img'>
-<img title="portrait" src="IMG_9128.png" width="30%">
-<img title="portrait" src="IMG_9129.png" width="30%">
+<kbd><img title="portrait" src="IMG_9128.png" width="30%"></kbd>
+<kbd><img title="landscape" src="IMG_9129.png" width="70%"></kbd>
 </center>
 
