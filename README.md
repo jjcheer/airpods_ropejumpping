@@ -12,3 +12,12 @@ This app do:
 - Keeps the screen on while running in the foreground, but does not keep the screen on when not in the foreground.
 
 APP Screenshots：
+<center class ='img'>
+<img title="portrait" src="IMG_9126.png" width="30%">
+<img title="portrait" src="IMG_9127.png" width="30%">
+</center>
+<center class ='img'>
+<img title="portrait" src="IMG_9128.png" width="30%">
+<img title="portrait" src="IMG_9129.png" width="30%">
+</center>
+
